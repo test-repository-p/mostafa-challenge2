@@ -16,6 +16,8 @@ class CrateAttributesGroupTable extends Migration
         Schema::create('attributesGroup', function (Blueprint $table) {
             $table->increments('id');
             $table->string('title');
+            $table->string('site_id');
+            $table->string('lang_id');
             $table->string('type');
             $table->timestamps();
         });

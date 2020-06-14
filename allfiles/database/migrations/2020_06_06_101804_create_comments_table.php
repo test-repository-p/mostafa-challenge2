@@ -19,6 +19,8 @@ class CreateCommentsTable extends Migration
             $table->string('product_id');
             $table->string('user_id')->nullable();
             $table->string('name')->nullable();
+            $table->string('site_id');
+            $table->string('lang_id');
             $table->string('email')->nullable();
             $table->string('subject')->nullable();
             $table->text('des')->nullable();
