@@ -1,0 +1,27 @@
+{
+    "gcm_sender_id": "103953800507",
+    "icons": [{
+        "src": "logo-192*192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }],
+    "name": "HpCanonCenter",
+    "display": "standalone",
+    "gcm_sender_id": "684034436780",
+    "short_name": "HpCanonCenter",
+    "lang": "fa",
+    "dir": "rtl",
+    "description": "HpCanonCenter Web App",
+    "scope": "/",
+    "start_url": "/",
+    "background_color": "#FFFFFF",
+    "theme_color": "#fb3449",
+    "version": "0.9",
+    "manifest_version": "0.2",
+    "orientation": "portrait",
+    "permissions": [
+        "notifications",
+        "webRequest"
+    ],
+    "author": "HpCanonCenter Co."
+}
