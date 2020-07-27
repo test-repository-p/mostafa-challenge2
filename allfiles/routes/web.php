@@ -140,3 +140,5 @@ Route::prefix('getuser')->group(function () {
         return $user;
     });
 });
+
+Route::resourse('prd1','Frontend/prd_1/IndexController');
