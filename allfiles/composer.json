@@ -14,7 +14,7 @@
         "hekmatinasser/verta": "^1.10",
         "intervention/image": "^2.5",
         "ipecompany/smsirlaravel": "^1.0",
-        "laravel/framework": "6.0.*",
+        "laravel/framework": "6.20.*",
         "laravel/helpers": "^1.2",
         "laravel/tinker": "^1.0",
         "elasticquent/elasticquent": "dev-master"
